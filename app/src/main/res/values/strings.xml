@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="n1">Number 1</string>
+    <string name="n2">Number 2</string>
+    <string name="ok">Ok</string>
+    <string name="btnplus">+</string>
+    <string name="btnsub">-</string>
+    <string name="btnmulti">*</string>
+    <string name="btndevi">/</string>
+</resources>
